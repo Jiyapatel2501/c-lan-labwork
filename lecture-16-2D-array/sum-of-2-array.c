@@ -46,7 +46,7 @@ int main(){
 	}
 	//display array c
 	for(int i=0;i<n;i++){
-		for(int j=0;j<m;j++){
+		for(int j=0;j<m;j++){l
 			printf("%d ",c[i][j]);
 		}
 		printf("\n");
